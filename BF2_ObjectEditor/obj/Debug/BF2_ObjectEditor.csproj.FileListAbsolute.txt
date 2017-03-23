@@ -1,0 +1,8 @@
+E:\projects\VS2015\BF2_ObjectEditor\BF2_ObjectEditor\bin\Debug\BF2_ObjectEditor.exe
+E:\projects\VS2015\BF2_ObjectEditor\BF2_ObjectEditor\bin\Debug\BF2_ObjectEditor.pdb
+E:\projects\VS2015\BF2_ObjectEditor\BF2_ObjectEditor\obj\Debug\BF2_ObjectEditor.csprojResolveAssemblyReference.cache
+E:\projects\VS2015\BF2_ObjectEditor\BF2_ObjectEditor\obj\Debug\BF2_ObjectEditor.Form_MainMenu.resources
+E:\projects\VS2015\BF2_ObjectEditor\BF2_ObjectEditor\obj\Debug\BF2_ObjectEditor.Properties.Resources.resources
+E:\projects\VS2015\BF2_ObjectEditor\BF2_ObjectEditor\obj\Debug\BF2_ObjectEditor.csproj.GenerateResource.Cache
+E:\projects\VS2015\BF2_ObjectEditor\BF2_ObjectEditor\obj\Debug\BF2_ObjectEditor.exe
+E:\projects\VS2015\BF2_ObjectEditor\BF2_ObjectEditor\obj\Debug\BF2_ObjectEditor.pdb
